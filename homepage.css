@@ -3207,7 +3207,7 @@ color: #B7926A;
     width: 100%;
     height: auto;
     gap: 10px;
-    padding: 20px 10px;
+    padding: 20px 10px 0 10px;
     /* height:220px; */
  }
 
@@ -3281,7 +3281,7 @@ color: #202020;
 
 .third-section .content button span{
     width: 69px;
-    height: 15px;
+        height: auto;
     top: 1690px;
     left: 38px;
     gap: 0px;
@@ -3309,7 +3309,7 @@ color: #B7926A;
  .essentials{
     min-height: 1420px;
     width: 100%;
-    margin: 30px 0 0 0;
+    margin: 5px 0 0 0;
     display: flex;
     justify-content: center;
     align-items: start;
